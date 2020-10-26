@@ -1,0 +1,10 @@
+name: TimedFly
+version: ${project.version}
+main: jahimaz.timedfly.TimedFly
+api-version: 1.16
+authors: [JAhimaz]
+description: Timed fly is a Spigot plugin that allows players to purchase fly for certain amounts of time. Included are cooldowns and fall-damage prevention.
+commands:
+  fly:
+    description: "Flying"
+    usage: /<command>
